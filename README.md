@@ -1,6 +1,6 @@
 # ROS2 Turtlesim Task 
 
-![ros2_showcase](images/ros2_showcase.png)
+![ros2_showcase](ros2_showcase.png)
 
 ## 🧠 About the Project
 
@@ -32,7 +32,7 @@ All images are placed inside the images/ folder.
 
 Below is the main turtlesim GUI window that shows the turtle in motion. The turtle was moved using arrow keys to trace a square path.
 
-<img src="images/turtlesim_window.png" alt="Turtlesim Window" width="400"/>
+<img src="turtlesim_window.png" alt="Turtlesim Window" width="400"/>
 
 ---
 
@@ -40,7 +40,7 @@ Below is the main turtlesim GUI window that shows the turtle in motion. The turt
 
 The following image shows the result of running terminal commands to list all active topics and nodes. These help us understand how data flows in ROS2.
 
-<img src="images/ros2_topics_and_nodes.png" alt="ROS2 Topics and Nodes" width="400"/>
+<img src="ros2_topics_and_nodes.png" alt="ROS2 Topics and Nodes" width="400"/>
 
 ---
 
