@@ -4,15 +4,13 @@
 
 ## 🧠 About the Project
 
-This project demonstrates basic interaction with the [Turtlesim](https://docs.ros.org/en/ros2_packages/foxy/api/turtlesim.html) package in ROS2 (Robot Operating System 2). It was created as part of a summer training program to explore the fundamental components of ROS2 such as nodes, topics, and keyboard-based teleoperation.
+This project focuses on using the Turtlesim package in ROS2 to simulate robot movement and understand how the ROS2 communication system works. The main objective is to launch the simulation, control the turtle in real time using the keyboard, and observe the flow of data through topics and nodes.
 
-Through this task, we:
-- Launched a simulation window with a turtle avatar.
-- Controlled the turtle in real time using keyboard arrows.
-- Monitored active ROS2 topics and nodes in the system.
-- Observed how commands are published and how ROS2 reacts live.
-
-This simulation offers a simple yet powerful introduction to robotics software architecture and control.
+The project includes:
+- Running a graphical simulation of a turtle robot.
+- Moving the turtle using arrow keys to draw simple shapes.
+- Displaying the list of active ROS2 topics and nodes.
+- Practicing how to run and monitor ROS2 components using terminal commands.
 
 ---
 
@@ -55,10 +53,8 @@ Follow these steps to reproduce the project setup:
 ### 2. Update the Systemsudo apt update
 sudo apt upgrade
 
-### 3. Install ROS2 (Humble)
-Follow official instructions from: [https://docs.ros.org/en/humble/Installation.html](https://docs.ros.org/en/humble/Installation.html)
+### 3. Install ROS2 
 
-> Ensure environment variables are sourced correctly.
 
 ### 4. Run TurtleSim Node
 Open a terminal and run:ros2 run turtlesim turtlesim_node
