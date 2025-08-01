@@ -67,7 +67,7 @@ In any terminal:ros2 topic list
 
 | File Name                   | Description                                      |
 |----------------------------|--------------------------------------------------|
-| ros2_showcase.png         | Screenshot showing full desktop setup            |
+| ros2_showcase.png         | Full terminal output showing ROS2 commands and results            |
 | turtlesim_window.png      | TurtleSim window during motion                   |
 | ros2_topics_and_nodes.png | Terminal showing topic/node list results         |
 
