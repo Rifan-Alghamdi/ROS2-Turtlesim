@@ -1,4 +1,4 @@
-# ROS2 Turtlesim Task 
+# ROS2 Turtlesim 
 
 ![ros2_showcase](ros2_showcase.png)
 
