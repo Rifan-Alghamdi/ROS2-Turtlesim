@@ -1,4 +1,4 @@
-# ROS2 Turtlesim Task 🐢
+# ROS2 Turtlesim Task 
 
 ![ros2_showcase](images/ros2_showcase.png)
 
@@ -13,6 +13,18 @@ Through this task, we:
 - Observed how commands are published and how ROS2 reacts live.
 
 This simulation offers a simple yet powerful introduction to robotics software architecture and control.
+
+---
+
+## 🧾 Files in This Repo
+
+| File Name                   | Description                                                |
+|----------------------------|------------------------------------------------------------|
+| ros2_showcase.png         | Terminal showing ros2 run, ros2 topic list, and results |
+| turtlesim_window.png      | Main TurtleSim GUI showing turtle movement                 |
+| ros2_topics_and_nodes.png | Output of ros2 topic list and ros2 node list           |
+
+All images are placed inside the images/ folder.
 
 ---
 
@@ -60,17 +72,3 @@ Use arrow keys to move the turtle. Try to trace basic shapes like a square or tr
 In any terminal:ros2 topic list
 
 ### 7. View Active Nodesros2 node list
-
----
-
-## 🧾 Files in This Repo
-
-| File Name                   | Description                                      |
-|----------------------------|--------------------------------------------------|
-| ros2_showcase.png         | Full terminal output showing ROS2 commands and results            |
-| turtlesim_window.png      | TurtleSim window during motion                   |
-| ros2_topics_and_nodes.png | Terminal showing topic/node list results         |
-
-All images are placed inside the images/ folder.
-
----
